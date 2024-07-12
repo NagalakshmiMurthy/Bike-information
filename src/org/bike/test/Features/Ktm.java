@@ -18,6 +18,8 @@ public class Ktm implements Bike {
 		k.cost();
 		k.speed();
 		
+		System.out.println("test1");
+		
 	}
 	
 	
